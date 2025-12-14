@@ -24,7 +24,7 @@ I strongly believe that **growth and progress come from constant exploration and
 
 ## 🚀 Full-stack dasturchi
 
-Men real muammolarni hal qiladigan, samarali va kengaytiriladigan dasturiy yechimlar yaratishga qiziqqan **Full-stack dasturchiman**. Backend logikadan tortib, qulay va sodda interfeyslargacha ishlashni yoqtiraman.
+Men real muammolarni hal qiladigan, samarali va kengaytiriladigan dasturiy yechimlar yaratishga qiziqqon **Full-stack dasturchiman**. Backend logikadan tortib, qulay va sodda interfeyslargacha ishlashni yoqtiraman.
 
 ### 🛠️ Texnologiyalar
 
