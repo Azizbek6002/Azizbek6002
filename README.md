@@ -1,45 +1,79 @@
 # 👋 Hi, I'm Azizbek
 
-## 🚀 Full-stack Developer
+## 🚀 Backend Developer & AI Engineer
 
-I'm a passionate **Full-stack developer** focused on building efficient, scalable, and real-world solutions. I enjoy working across the stack — from backend logic to clean and functional user interfaces.
+I'm a passionate developer focused on building scalable backend systems, AI-powered applications, and real-world digital products. I enjoy solving complex problems, learning new technologies quickly, and transforming ideas into working solutions.
 
-### 🛠️ Tech Stack
+Currently, I specialize in backend development with Python while actively working and teaching in the field of Artificial Intelligence.
 
-* **Backend:** Python, Django, Django REST Framework (DRF)
-* **Databases:** PostgreSQL, SQLite
-* **Frontend:** HTML, CSS, JavaScript
-* **Tools & Platforms:** Git, GitHub
-* **Automation & Bots:** Telegram Bot API
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+* Python
+* JavaScript
+
+**Backend Development**
+
+* Django
+* Django REST Framework (DRF)
+* FastAPI
+* REST API Development
+* JWT Authentication
+
+**Artificial Intelligence**
+
+* OpenAI API
+* LangChain
+* AI Agents
+* Prompt Engineering
+* RAG Systems
+* LLM Applications
+* AI Automation
+
+**Databases**
+
+* PostgreSQL
+* SQLite
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* Next.js
+
+**DevOps & Tools**
+
+* Git
+* GitHub
+* Docker
+* Linux
+* AWS EC2
+
+**Automation**
+
+* Telegram Bot API
+* Web Scraping
+* API Integrations
 
 ### 🎯 Goals & Vision
 
-My goal is to continuously learn and master modern technologies to build an **IT laboratory** where ideas turn into real products. I aim to create an **intelligent robotic assistant**, write **highly optimized and powerful software**, and work on innovative projects that push boundaries.
+My primary goal is to become a professional AI Engineer and contribute to the development of intelligent systems that solve real-world problems.
 
-I strongly believe that **growth and progress come from constant exploration and research**.
+I am passionate about researching emerging technologies, building innovative products, teaching others, and creating solutions that combine Artificial Intelligence with practical business needs.
 
----
+In the future, I aim to establish an advanced IT laboratory where talented people can collaborate, experiment, and transform ambitious ideas into impactful products.
 
-# 👋 Salom, men Azizbekman
+### 💡 What Defines Me
 
-## 🚀 Full-stack dasturchi
-
-Men real muammolarni hal qiladigan, samarali va kengaytiriladigan dasturiy yechimlar yaratishga qiziqqon **Full-stack dasturchiman**. Backend logikadan tortib, qulay va sodda interfeyslargacha ishlashni yoqtiraman.
-
-### 🛠️ Texnologiyalar
-
-* **Backend:** Python, Django, Django REST Framework (DRF)
-* **Ma'lumotlar bazasi:** PostgreSQL, SQLite
-* **Frontend:** HTML, CSS, JavaScript
-* **Vositalar:** Git, GitHub
-* **Botlar:** Telegram Bot API
-
-### 🎯 Maqsad va qarashlar
-
-Maqsadim — barcha zamonaviy texnologiyalarni chuqur o‘rganib, **IT laboratoriya** yaratish. **Sun’iy intellektga ega robot yordamchi** ishlab chiqish, **eng kuchli va optimal dasturlar** yozish hamda innovatsion loyihalar ustida ishlash.
-
-Men ishonamanki, **izlanish ortidan o‘sish va yuksalish keladi**.
+* Fast learner
+* Problem solver
+* Research-oriented mindset
+* Strong interest in AI and innovation
+* Team player with leadership ambitions
+* Passionate about building useful products
 
 ---
 
-⭐️ Feel free to explore my repositories and follow my journey on GitHub!
+⭐ Always learning, always building, always exploring new possibilities.
