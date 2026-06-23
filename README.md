@@ -48,6 +48,7 @@
 |---------|-------|
 | **Topnarx.uz** | Django, DRF, PostgreSQL, JWT |
 | **AI Kutubxona** | FastAPI, LangChain, RAG, OpenAI |
+| **Neyro Brains** | ...                     |
 
 ---
 
