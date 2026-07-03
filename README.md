@@ -1,4 +1,4 @@
-# 🐦‍🔥 Azizbek Abdunazarov
+# 🐦‍🔥 Azizbek Abdunazarov 
 
 > Strong Junior Python Backend Developer | AI Engineer
 
