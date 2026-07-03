@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/Azizbek6002?style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
   <a href="https://t.me/coder_zik">
-    <img src="https://img.shields.io/badge/Telegram-@coder_zik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@coder__zik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -181,8 +181,8 @@ AI-focused project for experimenting with intelligent workflows, assistants, and
 ## Connect With Me
 
 <p align="left">
-  <a href="https://t.me/azik_dev">
-    <img src="https://img.shields.io/badge/Telegram-@azik__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/coder_zik">
+    <img src="https://img.shields.io/badge/Telegram-@coder__zik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/Azizbek6002">
     <img src="https://img.shields.io/badge/GitHub-Azizbek6002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
