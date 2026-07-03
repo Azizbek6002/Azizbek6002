@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Azizbek Abdunazarov
 
 ### Backend Developer • Python • Django • AI Integrations
