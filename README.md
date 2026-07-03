@@ -15,7 +15,7 @@
   <a href="https://github.com/Azizbek6002">
     <img src="https://img.shields.io/github/followers/Azizbek6002?style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
-  <a href="https://t.me/azik_dev">
+  <a href="https://t.me/coder_zik">
     <img src="https://img.shields.io/badge/Telegram-@azik__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
