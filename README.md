@@ -199,4 +199,4 @@ AI-focused project for experimenting with intelligent workflows, assistants, and
 
 > Optimist + creative problem solver. I break problems, pressure does not break me.
 
-<h3 align="center">Code. Ship. Improve. Repeat.</h3>
+<h3 align="center">Code. Ship. Improve. Repeat. </h3>
