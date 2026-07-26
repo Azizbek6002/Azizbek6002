@@ -163,16 +163,6 @@ AI-focused project for experimenting with intelligent workflows, assistants, and
 
 ---
 
-### Mediklar
-Healthcare-related platform project.
-
-| | |
-|---|---|
-| **Description** | A healthcare platform project focused on delivering medical services through a digital interface |
-| **Stack** | `Python` `Django` `PostgreSQL` |
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
