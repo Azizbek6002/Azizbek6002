@@ -126,7 +126,7 @@ Production restaurant price comparison platform helping users find the best dini
 ### ChatPlace
 AI-powered Instagram business automation platform for intelligent customer engagement.
 
-**Status:** Production Ready | Meta App Review Pending
+**Live:** [chatplace.avioraai.uz](https://chatplace.avioraai.uz)
 
 | | |
 |---|---|
