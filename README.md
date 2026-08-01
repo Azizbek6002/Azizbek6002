@@ -304,7 +304,7 @@ I build software with a product mindset — thinking beyond code to deliver real
 
 ---
 
-## 🤝 Available For Collaboration
+##  🤝 Available For Collaboration
 
 I'm open to:
 
@@ -317,7 +317,7 @@ I'm open to:
 
 ---
 
-## 🔍 Interesting Facts
+##  🔍 Interesting Facts
 
 - I approach every problem with an optimist's mindset and a problem-solver's determination
 - Pressure is fuel — I thrive in challenging situations
